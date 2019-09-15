@@ -1,6 +1,6 @@
 # safelist
 branches:
-  only:
+  - r3.5
   - master
 
 language: cpp
